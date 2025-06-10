@@ -41,7 +41,6 @@ To build an interactive dashboard that answers:
 ## Live Dashboard
 
 - **Looker Studio Link**: [View Dashboard](https://lookerstudio.google.com/u/0/reporting/2e216d40-85f8-4fcc-a37f-94727eca9b77/page/z7LJF)
-- 
 ---
 
 ## Data Source
